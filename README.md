@@ -1,2 +1,2 @@
 # Robloxconvertion
-Upcoming project hope to help ROBLOX developers convert their games to a game suitable for other engines like unity and unreal engine research is still being made i would love if you have any way to help me make this feature work for now you can only convert your maps to .obj 
+Upcoming project hope to help ROBLOX developers convert their games to a game suitable for other engines like unity and unreal engine research is still being made i would love if you have any way to help me make this feature work for now you can only convert your maps to .obj or .fbx i'll look for more ways for now thats the only way to mostly convert your ROBLOX game into the engine you prefer 
